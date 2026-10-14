@@ -1,0 +1,6 @@
+@HumoVolveDay1_HostAddress = http://localhost:5001
+
+GET {{HumoVolveDay1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
